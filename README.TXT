@@ -1,12 +1,10 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Primer Elemento No Consecutivo
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Este proyecto resuelve el problema de encontrar el **primer elemento no consecutivo** en un arreglo ordenado de números enteros.
+
+Descripción del Problema
+Un número se considera **no consecutivo** si **no es exactamente 1 mayor** que el número anterior en el arreglo.
+
+### Ejemplo:
+Entrada:  [1, 2, 3, 4, 6, 7, 8]
+Salida:   6
