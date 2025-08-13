@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=consecutive_number
+comment1.params=arreglo
+comment1.target=java.lang.String\ consecutive_number(int[])
+numComments=2
